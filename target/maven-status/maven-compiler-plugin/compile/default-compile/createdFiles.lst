@@ -1,0 +1,8 @@
+com\memorynotfound\server\RunServer.class
+com\memorynotfound\server\package-info.class
+com\memorynotfound\server\GetBeerRequest.class
+com\memorynotfound\server\GetBeerResponse.class
+com\memorynotfound\server\BeerEndpoint.class
+com\memorynotfound\server\Beer.class
+com\memorynotfound\server\SoapServerConfig.class
+com\memorynotfound\server\ObjectFactory.class
